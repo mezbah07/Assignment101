@@ -1,0 +1,18 @@
+
+.button{
+    background-color:#4E47FF;
+
+    font-weight: bold;
+    border: #4E47FF;
+    border-radius: 3px;
+}
+
+    nav{
+    display: inline-flex;
+    ;
+    }
+
+    .text{
+        font-weight: bold;
+        
+    }
