@@ -113,9 +113,33 @@ margin-top: 70px;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.229);
     font-weight: normal;
-    
 
+}
 
+/*users section*/
+.review-sec{
+    display: flex;
+    justify-content: center;
+
+}
+.review-head{
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 50px;
+}
+
+.review{
+    margin-left: 20px;
+    padding: 24px;
+}
+
+.reviewer-data{
+    display: flex;
+    justify-content: ;
+    margin-right: 15px;
 }
 
 
