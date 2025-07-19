@@ -1,4 +1,4 @@
-
+ 
 .inter{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -231,7 +231,37 @@ margin-top: 70px;
     padding: 19px 140px;
 }
 
+.ftr-head{
+    font-size: 100px;
+    font-weight: bolder;
+color: #4E47FF;
+}
+.ftr-des{
+    color: #757575;
+    font-weight: normal;
 
+}
+.ftr{
+    text-align: center;
+    margin-top: 170px;
+    
+}
+footer ul{
+    display: flex;
+    list-style: none;
+
+}
+footer ul a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: #757575;
+    font-weight: normal;
+    
+}
+.ftr-li{
+    display: flex;
+    justify-content: center;
+}
 
 
 
