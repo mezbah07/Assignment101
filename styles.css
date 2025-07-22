@@ -76,12 +76,12 @@ margin-top: 70px;
     border-radius: 5px;
     color: white;
     cursor: pointer;
-    transition: ease-out 0s;
+    
  
 
 }
 .btn-primary:hover{
-box-shadow: inset 400px 0 0 0 #f9e506;
+background-color: #f9e506;
 color: black;
 
 }
